@@ -76,6 +76,13 @@ Scheduled tasks:
 
 ---
 
+## What tool was used to get Windows passwords?
 
+<img width="1119" height="728" alt="Image" src="https://github.com/user-attachments/assets/b5e426ab-a9f7-4ad1-a9bb-c314aea38a4c" />
 
+---
+
+## At what date did the compromise take place?
+
+<img width="1443" height="255" alt="Image" src="https://github.com/user-attachments/assets/dfc02188-38de-4fbf-a688-6f1176452ccb" />
 
