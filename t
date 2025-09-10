@@ -1,1 +1,0 @@
-<iframe src="https://scribehow.com/embed/Sign_Up_for_Hack_The_Box_and_Join_a_CTF__gnOtoG3xRMuGbjRLqDqtdg" width="100%" height="800" allow="fullscreen" style="aspect-ratio: 1 / 1; border: 0; min-height: 480px"></iframe>
